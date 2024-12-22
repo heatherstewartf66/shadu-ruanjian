@@ -10,7 +10,7 @@
 ---
 
 ## 目录
-1. [最佳杀毒软件推荐](#最佳杀毒软件推荐)
+   - [最佳杀毒软件推荐](#最佳杀毒软件推荐)
    - [Bitdefender Antivirus Plus](#bitdefender-antivirus-plus)
    - [Norton AntiVirus Plus](#norton-antivirus-plus)
    - [McAfee AntiVirus](#mcafee-antivirus)
@@ -18,16 +18,7 @@
    - [Sophos Home Premium](#sophos-home-premium)
    - [Webroot AntiVirus](#webroot-antivirus)
    - [G Data Antivirus](#g-data-antivirus)
-2. [杀毒软件常见问题](#杀毒软件常见问题)
-   - [什么是病毒、恶意软件和勒索软件？](#什么是病毒恶意软件和勒索软件)
-   - [最常用的杀毒软件是什么？](#最常用的杀毒软件是什么)
-   - [免费的杀毒软件推荐](#免费的杀毒软件推荐)
-   - [macOS用户适合哪款杀毒软件？](#macos用户适合哪款杀毒软件)
-   - [独立测试机构推荐的最佳病毒防护](#独立测试机构推荐的最佳病毒防护)
-3. [购买指南](#购买指南)
-   - [如何选择适合的杀毒软件？](#如何选择适合的杀毒软件)
-   - [杀毒软件的附加功能](#杀毒软件的附加功能)
-   - [VPN与杀毒软件的结合](#vpn与杀毒软件的结合)
+
 
 ---
 
